@@ -1,2 +1,4 @@
-# powerbi_samples
-Sample PBIX Files
+# PowerBI examples
+Repo of sample powerbi files
+
+
